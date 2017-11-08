@@ -1,0 +1,6 @@
+ofxImGui
+ofxXmlSettings
+ofxImGuiParameter
+ofxRPiCameraVideoGrabber
+ofxMidi
+ofxMidiDevice
